@@ -1,11 +1,11 @@
 [package]
 name = "simplemath"
-version = "1.0.0"
+version = "1.0.1"
 description = "a package that does simple math"
 repository = "https://github.com/sam-thetutor/simpleMath"
 keywords = [ "math", "simple" ]
 license = "MIT"
 
-
 [dependencies]
-base="0.11.2"
+base = "0.11.2"
+simplemath = "1.0.0"
